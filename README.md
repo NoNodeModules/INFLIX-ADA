@@ -5,5 +5,6 @@ Inflix Instagram and Netflix. Here the main features of website include create p
 
 In second part, you can search for movies and also get recommendations related to movie you want to.
 
-For other details contact me: 
-gmanas813@gmail.com
+Created By:
+Manas Gupta 2K19/CO/213
+Manan Agrawal 2K19/CO/210
