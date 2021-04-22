@@ -1,10 +1,16 @@
-# Inflix
-Website Link : https://inflix.herokuapp.com/
+# Movie-Recommender-System
+This is a hollywood movie recommender system built with Python. I used IMDB 5000 Movie Dataset to built this.
+Link to dataset :- https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
-Inflix Instagram and Netflix. Here the main features of website include create profile after user authentication. Also you can comment on others profile and upload your photos.
+Link to the web application :- https://recommendor-system.herokuapp.com/
 
-In second part, you can search for movies and also get recommendations related to movie you want to.
+I also wrote a blog about this project which help you understand the overall process :- https://www.academyofdatascience.com/Blog_page/blog_3.html
 
-Created By:
-Manas Gupta 2K19/CO/213
-Manan Agrawal 2K19/CO/210
+I used Flask web framework in built in Python to put in on web.
+
+# Files Brief
+*In the preprocessing.ipynb file the Data Preprocessing part has been done. 
+
+*In the create.py file I created two files for future uses one data.csv and other a numpy matrix.
+
+*The application is run from the main.py file.
